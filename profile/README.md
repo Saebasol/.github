@@ -8,5 +8,6 @@
 * Contribute to [gallery-dl](https://github.com/mikf/gallery-dl)
 * Contribute to [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 * Contribute to [violet](https://github.com/project-violet/violet)
+* and more...!
 
 Please refer to the pins below for the projects we operate.
